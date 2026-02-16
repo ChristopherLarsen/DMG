@@ -9,7 +9,7 @@
     <item>
       <title>Version 1.0</title>
       <description>Triggerfishh 1.0</description>
-      <pubDate>Sun, 15 Feb 2026 19:09:06 -0500</pubDate>
+      <pubDate>Sun, 15 Feb 2026 20:33:38 -0500</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <enclosure
@@ -17,8 +17,8 @@
         sparkle:version="1"
         sparkle:shortVersionString="1.0"
         type="application/octet-stream"
-        sparkle:edSignature="kbQ98CqIMZwjTE4Sp4VylwXRz86FtQWrbnREp/dZzC6ucEiM7HCfOWiIoPN7VWGchm0KBr9LYKZQWkQyStpgAA=="
-        length="7993548"
+        sparkle:edSignature="sI5lTPWjGcFxO+Jz8+JgseLMt6Lfp2NBL+s7Gg5YrisotjVT4vpqd1sdStZhctsS/dngi6k30eoHeo4KoTDBBA=="
+        length="7967588"
       />
     </item>
 
