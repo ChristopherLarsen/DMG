@@ -13,7 +13,7 @@
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <enclosure
-        url="https://raw.githubusercontent.com/ChristopherLarsen/DMG/main/Triggerfish/dmg/Triggerfishh-1.0.dmg"
+        url="https://github.com/ChristopherLarsen/DMG/releases/download/1.0.0/Triggerfishh-1.0.dmg"
         sparkle:version="1"
         sparkle:shortVersionString="1.0"
         type="application/octet-stream"
