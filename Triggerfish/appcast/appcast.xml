@@ -9,16 +9,16 @@
     <item>
       <title>Version 1.0</title>
       <description>Triggerfishh 1.0</description>
-      <pubDate>Fri, 20 Feb 2026 12:26:28 -0500</pubDate>
+      <pubDate>Fri, 20 Feb 2026 13:32:49 -0500</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/ChristopherLarsen/DMG/releases/download/1.0.0/Triggerfishh-1.0.dmg"
+        url="https://raw.githubusercontent.com/ChristopherLarsen/DMG/main/Triggerfish/dmg/Triggerfishh-1.0.dmg"
         sparkle:version="1"
         sparkle:shortVersionString="1.0"
         type="application/octet-stream"
-        sparkle:edSignature="vyW8xqPs7i6AiypLDLi55uME+cwKm3OyDTPCiC0Jzw5LrP4ClBcysEKbqYe/1a6Yzc+ekVlAmWjfCq365lD4DQ=="
-        length="7744051"
+        sparkle:edSignature="x30KPHB8u8tGEEMZG7HsyiV8D/A3YfgM9xb8fmWBNitlbSfNWfKHi+e5ed9xxj4l3gnP2QXizGXlhhDW/MADDA=="
+        length="7743934"
       />
     </item>
 
