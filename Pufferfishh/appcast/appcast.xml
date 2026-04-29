@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Pufferfishh</title>
+    <link>https://deadratgames.com</link>
+    <description>Pufferfishh Updates</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 2.1.0</title>
+      <description>Pufferfishh 2.1.0</description>
+      <pubDate>Wed, 29 Apr 2026 19:03:00 -0400</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/ChristopherLarsen/Pufferfishh/releases/download/v2.1.0/Pufferfishh-2.1.0.dmg"
+        sparkle:version="13"
+        sparkle:shortVersionString="2.1.0"
+        type="application/octet-stream"
+        sparkle:edSignature="/0IKqGQNHDZ8vlWNDOMptycgz9exoepUjwkhhT/BZyQmt6MsUYODWDh6Vs3wHulazx4K7r8ShtSkcBcSfmEwAQ=="
+        length="13873552"
+      />
+    </item>
+
+  </channel>
+</rss>
